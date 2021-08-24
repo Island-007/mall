@@ -1,0 +1,51 @@
+{
+  "id": "2666176",
+  "name": "detail",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1496051",
+      "name": "back_light",
+      "font_class": "back_light",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "1496055",
+      "name": "favor_light",
+      "font_class": "favor_light",
+      "unicode": "e7e1",
+      "unicode_decimal": 59361
+    },
+    {
+      "icon_id": "1512759",
+      "name": "favor_fill_light",
+      "font_class": "favor_fill_light",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "2681675",
+      "name": "打勾",
+      "font_class": "dagou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "833476",
+      "name": "shop_light",
+      "font_class": "shoplight",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "1496045",
+      "name": "service_light",
+      "font_class": "service_light",
+      "unicode": "e7dd",
+      "unicode_decimal": 59357
+    }
+  ]
+}

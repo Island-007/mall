@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2682120 */
+  src: url('iconfont.woff2?t=1626530501165') format('woff2'),
+       url('iconfont.woff?t=1626530501165') format('woff'),
+       url('iconfont.ttf?t=1626530501165') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-favor:before {
+  content: "\e64c";
+}
+
+.icon-commentfill:before {
+  content: "\e666";
+}
+
+.icon-settings:before {
+  content: "\e68a";
+}
+
+.icon-shopfill:before {
+  content: "\e697";
+}
+
+.icon-footprint:before {
+  content: "\e69d";
+}
+
+.icon-redpacket:before {
+  content: "\e6e0";
+}
+
+.icon-rechargefill:before {
+  content: "\e6ec";
+}
+
+.icon-vipcard:before {
+  content: "\e6ee";
+}
+
+.icon-deliver_fill:before {
+  content: "\e7f6";
+}
+
+.icon-card_fill:before {
+  content: "\e81f";
+}
+

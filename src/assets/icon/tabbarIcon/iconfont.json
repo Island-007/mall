@@ -1,0 +1,37 @@
+{
+  "id": "2595058",
+  "name": "tabbar",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21146751",
+      "name": "iov-store",
+      "font_class": "iov-store",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "21146752",
+      "name": "iov-shoppingcart",
+      "font_class": "iov-shoppingcart",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "21151521",
+      "name": "iov-nosearch",
+      "font_class": "iov-nosearch",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "21284016",
+      "name": "iov-user",
+      "font_class": "iov-user",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    }
+  ]
+}

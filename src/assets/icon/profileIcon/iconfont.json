@@ -1,0 +1,79 @@
+{
+  "id": "2682120",
+  "name": "profile",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29931",
+      "name": "favor",
+      "font_class": "favor",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "30415",
+      "name": "comment_fill",
+      "font_class": "commentfill",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "30480",
+      "name": "settings",
+      "font_class": "settings",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "31354",
+      "name": "shop_fill",
+      "font_class": "shopfill",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "32090",
+      "name": "footprint",
+      "font_class": "footprint",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "41959",
+      "name": "redpacket",
+      "font_class": "redpacket",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "52508",
+      "name": "recharge_fill",
+      "font_class": "rechargefill",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "52510",
+      "name": "vipcard",
+      "font_class": "vipcard",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "2212105",
+      "name": "deliver_fill",
+      "font_class": "deliver_fill",
+      "unicode": "e7f6",
+      "unicode_decimal": 59382
+    },
+    {
+      "icon_id": "12625085",
+      "name": "card_fill",
+      "font_class": "card_fill",
+      "unicode": "e81f",
+      "unicode_decimal": 59423
+    }
+  ]
+}
